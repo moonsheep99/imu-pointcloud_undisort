@@ -4,7 +4,7 @@ IMU数据处理+点云去畸变
 1、IMU处理
 2、IMU前向传播
 3、点云处理
-4、点云去畸变
+4、点云去畸变———均写好了发布函数
 5、其它：
                     roslaunch、rviz设置等
 使用：roslaunch my_practice mapping_velodyne即可
