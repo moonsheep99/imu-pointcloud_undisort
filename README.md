@@ -9,3 +9,8 @@ IMU数据处理+点云去畸变
                     roslaunch、rviz设置等
 使用：roslaunch my_practice mapping_velodyne即可
 pcl1.8
+
+
+参考：fastlio2 
+              r3live
+     
